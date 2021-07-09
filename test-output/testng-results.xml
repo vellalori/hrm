@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="4" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="29593" started-at="2021-06-12T11:47:19Z" finished-at="2021-06-12T11:47:49Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="29593" started-at="2021-06-12T11:47:19Z" finished-at="2021-06-12T11:47:49Z">
+      <class name="hrmtestcase.HrmTestcase">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:hrmtestcase.HrmTestcase@7ce3cb8e]" name="SetUp" is-config="true" duration-ms="12344" started-at="2021-06-12T17:17:19Z" finished-at="2021-06-12T17:17:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="LoginTest()[pri:2, instance:hrmtestcase.HrmTestcase@7ce3cb8e]" name="LoginTest" duration-ms="5345" started-at="2021-06-12T17:17:32Z" finished-at="2021-06-12T17:17:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:hrmtestcase.HrmTestcase@7ce3cb8e]" name="TearDown" is-config="true" duration-ms="1011" started-at="2021-06-12T17:17:37Z" finished-at="2021-06-12T17:17:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:hrmtestcase.HrmTestcase@7ce3cb8e]" name="SetUp" is-config="true" duration-ms="7689" started-at="2021-06-12T17:17:38Z" finished-at="2021-06-12T17:17:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="LoginTest1()[pri:2, instance:hrmtestcase.HrmTestcase@7ce3cb8e]" name="LoginTest1" duration-ms="1634" started-at="2021-06-12T17:17:46Z" finished-at="2021-06-12T17:17:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest1 -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:hrmtestcase.HrmTestcase@7ce3cb8e]" name="TearDown" is-config="true" duration-ms="1521" started-at="2021-06-12T17:17:47Z" finished-at="2021-06-12T17:17:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- hrmtestcase.HrmTestcase -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
